@@ -32,9 +32,16 @@ Render takes upto 6 argumnets i.e, Required arugumnets are 2 Optional arguments 
 - Create a URL to map to that view
 
 Let us create a simple template that shows the current date and time as discussed earlier we will follow those steps
-```python
-def show(request):
-  date=datetime.datetime.now()
-  return render(request,testapp/display.html,{'data':date}
-```
-<img src="d2.JPG" alt="Views Image"/>
+
+**Views.py**
+<img src="d2.JPG" alt="Views.py"/>
+
+**display.html**
+<img src="d3.JPG" alt="display.html"/>
+
+**urls.py**
+<img src="d4.JPG" alt="display.html"/>
+
+**Result**
+<img src="d5.JPG" alt="Results Page"/>
+
