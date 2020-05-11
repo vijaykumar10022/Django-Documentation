@@ -35,7 +35,20 @@ Let us create a simple template that shows the current date and time as discusse
 
 **Views.py**
 ----
-![Views Images][d5.JPG]
+<img src="d2.JPG"/>
 
 
+**display.html**
+----
 
+<img src="d3.JPG"/>
+
+**urls.py**
+----
+
+<img src="d4.JPG"/>
+
+**Result**
+----
+
+<img src="d5.JPG"/>
