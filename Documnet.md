@@ -37,4 +37,4 @@ def show(request):
   date=datetime.datetime.now()
   return render(request,testapp/display.html,{'data':date}
 ```
-<img src="d2.jpg" alt="Views Image"/>
+<img src="d2.JPG" alt="Views Image"/>
