@@ -34,14 +34,8 @@ Render takes upto 6 argumnets i.e, Required arugumnets are 2 Optional arguments 
 Let us create a simple template that shows the current date and time as discussed earlier we will follow those steps
 
 **Views.py**
-<img src="d2.JPG" alt="Views.py"/>
+----
+![Views Images][d5.JPG]
 
-**display.html**
-<img src="d3.JPG" alt="display.html"/>
 
-**urls.py**
-<img src="d4.JPG" alt="display.html"/>
-
-**Result**
-<img src="d5.JPG" alt="Results Page"/>
 
