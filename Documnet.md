@@ -62,6 +62,7 @@ For this project i created one application i.e, testapp is my application name a
 ----
 ***Steps as follows***
 
+- Created one application i.e, apssdc is my application name
 - In this we will create a simple template(html file) which includes some fields like name,Mobile Number,Mail Id
 - Here total we consired 3 fields in our application so that we require 3 input fields and one submit button
 - To display the output create another template
@@ -90,6 +91,8 @@ For this project i created one application i.e, testapp is my application name a
 ----
 
 <img src="d10.JPG"/>
+
+**After click on submit result shown as follows**
 
 <img src="d11.JPG"/>
 
