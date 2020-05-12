@@ -31,7 +31,9 @@ Render takes upto 6 argumnets i.e, Required arugumnets are 2 Optional arguments 
 - Create a template file(HTML File) which is to be rendered and link it to the view.
 - Create a URL to map to that view
 
-Let us create a simple template that shows the current date and time as discussed earlier we will follow those steps
+Let us create a simple template that shows the current date and time as discussed earlier we will follow those steps to get desired result.
+
+For this project i created one application i.e, testapp is my application name and i created one function show inside the views.py, to display output i created one templated called display.html
 
 **Views.py**
 ----
@@ -52,3 +54,43 @@ Let us create a simple template that shows the current date and time as discusse
 ----
 
 <img src="d5.JPG"/>
+
+----
+
+## Data rendering from html to views without using forms and models
+
+----
+***Steps as follows***
+
+- In this we will create a simple template(html file) which includes some fields like name,Mobile Number,Mail Id
+- Here total we consired 3 fields in our application so that we require 3 input fields and one submit button
+- To display the output create another template
+
+**Views.py**
+----
+<img src="d7.JPG"/>
+
+
+**index.html**
+----
+
+<img src="d6.JPG"/>
+
+**result.html**
+----
+
+<img src="d8.JPG"/>
+
+**urls.py**
+----
+
+<img src="d9.JPG"/>
+
+**Result**
+----
+
+<img src="d10.JPG"/>
+
+<img src="d11.JPG"/>
+
+
